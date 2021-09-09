@@ -1,0 +1,2 @@
+# pembuatannasigoreng
+Latihan1
